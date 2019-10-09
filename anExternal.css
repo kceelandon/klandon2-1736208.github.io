@@ -6,10 +6,10 @@ p {
     font-style: oblique;
 }
 
-.demon {
+.container {
     padding: 10px;
     text-align: justify;
-    width: auto;
+    width: 300px;
 }
 
 .image {
