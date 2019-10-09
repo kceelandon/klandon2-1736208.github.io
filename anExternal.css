@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+p {
+    font-style: oblique;
+}
+
+.demon {
+    padding: 10px;
+    text-align: justify;
+    width: auto;
+}
+
+.image {
+    float: left;
+}
